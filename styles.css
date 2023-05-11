@@ -1,9 +1,6 @@
 body {
   text-align: center;
   background-color: #283149;
-  display:flex;
-  justify-content:center;
-  height:100vh;
  
 }
 
@@ -48,7 +45,8 @@ footer {
 }
 
 .set {
-  margin: 10% auto;
+  display:flex;
+  justify-content:center
 }
 
 .game-over {
